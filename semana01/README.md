@@ -11,7 +11,7 @@ O programa simula um comportamento interativo utilizando variáveis e condiçõe
 - Interaja com as entradas solicitadas
 
 ## Prints
-![Print 1](semana01/print1.jpeg)
+![Print 1](print1.jpeg)
 ![Print 2](semana01/print2.jpeg)
 ![Print 3](semana01/print3.jpeg)
 ![Print 4](semana01/print4.jpeg)
