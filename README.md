@@ -17,10 +17,13 @@ Este repositório foi criado para armazenar exercícios, exemplos e projetos des
 ##  Estrutura
 
 - `semana2/` → Introdução e primeiros exercícios
+- `semana3/` →
+- `semana4/` → Jogo code.org
 
 
 ## ⚙️ Tecnologias
 
 - Little Man Computer (LMC)  
 - OctoStudio  
-- Python  
+- Python
+- Code.org (JavaScrpit)
