@@ -17,7 +17,7 @@ Este repositório foi criado para armazenar exercícios, exemplos e projetos des
 ##  Estrutura
 
 - `semana2/` → Introdução e primeiros exercícios
-- `semana3/` →
+- `semana3/` → Fluxograma do algoritmo no LMC
 - `semana4/` → Jogo code.org
 
 
