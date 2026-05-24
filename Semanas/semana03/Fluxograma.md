@@ -11,4 +11,5 @@ Este repositório contém um fluxograma desenvolvido para representar a lógica 
 5. Exibição do resultado;
 6. Encerramento do programa.
 
+![Print 1](fluxograma.jpeg)
 
