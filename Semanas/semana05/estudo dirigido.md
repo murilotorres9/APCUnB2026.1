@@ -1,4 +1,4 @@
-#  Relatório — Code.org: Condicionais e Decisões
+#  Estudo Dirigido — Code.org: Condicionais e Decisões
 
 **Disciplina:** APC  
 **Semana:** 05 — Estrutura Condicional
