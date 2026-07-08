@@ -29,14 +29,3 @@ cd projeto_final/src
 python3 main.py
 python3 -m doctest main.py -v
 ```
-
-## Checklist de encerramento do semestre
-
-- [ ] Preencher o tema real do projeto final em `projeto_final/README.md`
-- [ ] Preencher a proposta pedagógica
-- [ ] Print do projeto Tinkercad integrador
-- [ ] Apresentar (10 min) usando `roteiro_apresentacao.md`
-- [ ] Abrir issue de peer review no repositório de um(a) colega
-- [ ] Ativar GitHub Pages (`configurar_github_pages.md`)
-- [ ] Escrever a reflexão final no `index.html` e no `README.md` da raiz
-- [ ] Registrar a URL do GitHub Pages no formulário da turma
