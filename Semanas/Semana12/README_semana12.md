@@ -33,14 +33,4 @@ python3 -m doctest agenda_contatos.py -v
 python3 -m doctest catalogo_escolas_df.py -v
 ```
 
-## Pendências para completar manualmente
 
-- [ ] Print do projeto OctoStudio (`banco_personagens.png`)
-- [ ] Compartilhar o projeto no grupo do WhatsApp da turma
-- [ ] Reflexão breve em `octostudio_banco_personagens.md`
-
-## Reflexão breve
-
-_(qual estrutura você usaria para representar um aluno: dicionário ou tupla?
-por quê? em que situação usar as duas juntas — uma lista de tuplas dentro
-de um dicionário indexado por turma, por exemplo?)_
