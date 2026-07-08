@@ -32,9 +32,4 @@ python3 -m doctest lib_matematica.py -v
 for f in debugging/*.py; do python3 -m doctest "$f"; done
 ```
 
-## Pendências para completar manualmente
 
-- [ ] Se o professor fornecer os 5 programas problemáticos oficiais em
-      sala, substituir os exemplos de `debugging/` pelos bugs reais
-      (mesmo formato de docstring + doctest)
-- [ ] Print do circuito Tinkercad em `sensor_tinkercad.md`
