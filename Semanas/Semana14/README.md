@@ -48,8 +48,3 @@ python3 -m doctest analisador_saeb.py -v
   binária em https://visualgo.net/pt e compare com o comportamento do
   código desta semana.
 
-## Reflexão breve
-
-_(o que ficou mais claro sobre recursão depois de ver o Python Tutor: a
-"pilha crescendo" ou a "pilha desempilhando"? o gráfico de complexidade
-confirmou a expectativa teórica de O(n²) vs O(n log n)?)_
