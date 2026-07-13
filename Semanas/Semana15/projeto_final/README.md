@@ -14,7 +14,6 @@ exportar as estatísticas filtradas para `.csv` ou `.txt`.
 ## Integrantes
 
 - Murilo Torres
-- [nome do(a) segundo(a) integrante da dupla]
 
 ## Como executar
 
